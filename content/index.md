@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome!
+draft: false
+tags:
+date: 2026-04-04 13:48
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello there!
