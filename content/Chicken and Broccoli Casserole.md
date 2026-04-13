@@ -3,7 +3,9 @@ title: Chicken and Broccoli Casserole
 draft: false
 tags:
   - ⭐⭐⭐⭐
+  - protein/chicken
 date: 2026-04-04 13:55
+servings: 8
 ---
 # Ingredients
 - [ ] **4** **Tbsp.** unsalted butter, divided, plus more for greasing

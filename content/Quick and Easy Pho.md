@@ -2,7 +2,10 @@
 title: Quick and Easy Pho
 draft: false
 tags:
+  - ⭐⭐⭐⭐
+  - protein/flexible
 date: 2026-04-08 14:29
+servings: 4
 ---
 # Ingredients 
 - [ ] 8 oz [dried rice vermicelli noodles](https://amzlink.to/az0DtuIiSfHJn)
