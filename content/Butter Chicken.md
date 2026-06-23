@@ -4,9 +4,12 @@ draft: false
 tags:
   - ⭐⭐⭐⭐⭐
   - protein/chicken
+  - main
 date: 2026-04-04 13:54
 servings: 6
 ---
+> [!example]- Printable PDF
+> ![[Butter Chicken.pdf]]
 # Ingredients 
 - [ ] 1 ½ pounds skinless boneless chicken thighs, cut into bite-sized chunks
 - [ ] 1 teaspoon salt

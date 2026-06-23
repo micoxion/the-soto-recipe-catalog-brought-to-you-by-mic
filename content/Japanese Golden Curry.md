@@ -4,9 +4,12 @@ draft: false
 tags:
   - ⭐⭐⭐⭐⭐
   - protein/chicken
+  - main
 date: 2026-04-12 17:00
 servings: 5
 ---
+> [!example]- Printable PDF
+> ![[Japanese Golden Curry.pdf]]
 # Ingredients
 - [ ] 1 lb chicken (chopped)
 - [ ] 1 large white onion (minced)

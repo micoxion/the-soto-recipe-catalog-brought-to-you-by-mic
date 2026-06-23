@@ -4,9 +4,12 @@ draft: false
 tags:
   - ⭐⭐⭐⭐
   - protein/chicken
+  - main
 date: 2026-04-04 13:55
 servings: 8
 ---
+> [!example]- Printable PDF
+> ![[Chicken and Broccoli Casserole.pdf]]
 # Ingredients
 - [ ] **4** **Tbsp.** unsalted butter, divided, plus more for greasing
 - [ ] **4**  (6-oz.) boneless, skinless chicken breasts    

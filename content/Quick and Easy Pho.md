@@ -4,9 +4,12 @@ draft: false
 tags:
   - ⭐⭐⭐⭐
   - protein/flexible
+  - main
 date: 2026-04-08 14:29
 servings: 4
 ---
+> [!example]- Printable PDF
+> ![[Quick and Easy Pho.pdf]]
 # Ingredients 
 - [ ] 8 oz [dried rice vermicelli noodles](https://amzlink.to/az0DtuIiSfHJn)
 - [ ] Desired meat: chicken, pork, steak or raw shrimp*, (See notes)
@@ -45,3 +48,6 @@ servings: 4
 > - **Beef Pho (**_**phở bò)**:_ ½ pound sirloin steak, flank steak or brisket, sliced very thinly and seasoned with salt and pepper.
 > - **Chicken Pho (_phở gà)_**: Slice 1-2 boneless, skinless breasts into very thin pieces, against the grain. Season with salt and pepper.
 > - **Pork Pho:** Season a 1 lb pork tenderloin with salt and pepper and sear in a little bit of oil in a very hot pan until browned on all sides (about 10 minute). Allow to rest while broth cooks and then slice into very thin slices.
+
+> [!note] Mic's Notes
+> I would advise putting in at *least* 3 whole cloves, it really helps bring this closer to a Pho flavor. I also use the white portion of the green onions in the broth to add a little more sweetness.
