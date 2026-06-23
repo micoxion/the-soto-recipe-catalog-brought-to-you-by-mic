@@ -52,5 +52,5 @@ servings: 6
 1. Serve hot with naan bread and steamed rice. Enjoy the creamy, flavorful goodness! (Watch full recipe video below)
 
 > [!note]+ Notes
-Was really good and actually not long in prep time, I would add just a biiiit more of the garam masala, tiny bit more of the curry powder and maybe a dash more salt.
-Also Kit wants to try a white onion instead of red
+> Was really good and actually not long in prep time, I would add just a biiiit more of the garam masala, tiny bit more of the curry powder and maybe a dash more salt.
+> Also Kit wants to try a white onion instead of red
